@@ -1,7 +1,5 @@
-# Retail-sales-dashboard
+## Retail-sales-dashboard
 Interactive retail sales performance dashboard built in Excel 
-
-# Sales Dashboard Project
 
 This project presents a comprehensive Sales Dashboard built to analyze sales performance across customer and product dimensions, including gender, product, location, size, and age group.
 
