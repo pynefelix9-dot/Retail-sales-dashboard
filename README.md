@@ -1,5 +1,5 @@
 ## RETAIL_SALES_DASHBOARD
-Interactive retail sales performance dashboard built in Excel 
+Interactive retail sales performance dashboard built in Excel. 
 
 This project presents a comprehensive Sales Dashboard built to analyze sales performance across customer and product dimensions, including gender, product, location, size, and age group.
 
